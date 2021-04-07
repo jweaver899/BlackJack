@@ -1,0 +1,16 @@
+C:\Users\jweav\Documents\BlackJack\obj\Debug\net5.0\BlackJack.csprojAssemblyReference.cache
+C:\Users\jweav\Documents\BlackJack\obj\Debug\net5.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jweav\Documents\BlackJack\obj\Debug\net5.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\jweav\Documents\BlackJack\obj\Debug\net5.0\BlackJack.AssemblyInfo.cs
+C:\Users\jweav\Documents\BlackJack\obj\Debug\net5.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\jweav\Documents\BlackJack\bin\Debug\net5.0\BlackJack.exe
+C:\Users\jweav\Documents\BlackJack\bin\Debug\net5.0\BlackJack.deps.json
+C:\Users\jweav\Documents\BlackJack\bin\Debug\net5.0\BlackJack.runtimeconfig.json
+C:\Users\jweav\Documents\BlackJack\bin\Debug\net5.0\BlackJack.runtimeconfig.dev.json
+C:\Users\jweav\Documents\BlackJack\bin\Debug\net5.0\BlackJack.dll
+C:\Users\jweav\Documents\BlackJack\bin\Debug\net5.0\ref\BlackJack.dll
+C:\Users\jweav\Documents\BlackJack\bin\Debug\net5.0\BlackJack.pdb
+C:\Users\jweav\Documents\BlackJack\obj\Debug\net5.0\BlackJack.dll
+C:\Users\jweav\Documents\BlackJack\obj\Debug\net5.0\ref\BlackJack.dll
+C:\Users\jweav\Documents\BlackJack\obj\Debug\net5.0\BlackJack.pdb
+C:\Users\jweav\Documents\BlackJack\obj\Debug\net5.0\BlackJack.genruntimeconfig.cache
