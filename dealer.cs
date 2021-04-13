@@ -86,8 +86,9 @@ namespace BlackJack
 
         }
 
-        public void Play ()
+        public void Play (int playerHandTotal)
         {
+            int dealerHandTotal = 0;
 
         }
     }

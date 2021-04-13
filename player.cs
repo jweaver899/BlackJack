@@ -8,11 +8,6 @@ namespace BlackJack
     public class Player
     {
 
-        public void Stand ()
-        {
-            
-        }
-
         public void Play (List<Deck.Card> deck)
         {
             Dealer dealer = new Dealer();
@@ -38,6 +33,7 @@ namespace BlackJack
                     Console.WriteLine("You stand with a hand total of" + handTotal);
                     Thread.Sleep(500);
                     Console.WriteLine("Dealer will play now");
+                    dealer.Play(handTotal);
 
                 }
                 else if (choice == "Hit" || choice == "hit" || choice == "h" || choice == "H")
@@ -64,6 +60,7 @@ namespace BlackJack
                 Console.WriteLine("21!");
                 Thread.Sleep(500);
                 Console.WriteLine("Dealer will play now");
+                dealer.Play(handTotal);
 
             }
 
